@@ -9,7 +9,7 @@
 ![mlokhate's 42 stats](https://badge42.herokuapp.com/api/stats/mlokhate?darkmode=true)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=mickael-lokhate&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mickael-lokhate&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mickael-lokhate&layout=compact&theme=dark)
 
 
 ![](https://img.shields.io/badge/OS-MacOs-blue) ![](https://img.shields.io/badge/OS-Linux-blue)
