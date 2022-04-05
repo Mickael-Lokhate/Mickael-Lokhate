@@ -8,8 +8,9 @@
 
 [![mlokhate's 42 stats](https://badge42.vercel.app/api/v2/cl1mdvtu6009009mod72g373r/stats?cursusId=21&coalitionId=122)](https://github.com/JaeSeoKim/badge42)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mickael-lokhate&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mickael-lokhate&layout=compact&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://img.shields.io/badge/OS-MacOs-blue) ![](https://img.shields.io/badge/OS-Linux-blue)
