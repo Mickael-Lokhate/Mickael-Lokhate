@@ -6,7 +6,7 @@
 - 📫 You can contact me here : lokhatemickael@gmail.com
 - 👉 My LinkedIn : https://www.linkedin.com/in/mickael-lokhate/
 
-![mlokhate's 42 stats](https://badge42.herokuapp.com/api/stats/mlokhate?darkmode=true)
+[![mlokhate's 42 stats](https://badge42.vercel.app/api/v2/cl1mdvtu6009009mod72g373r/stats?cursusId=21&coalitionId=122)](https://github.com/JaeSeoKim/badge42)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=mickael-lokhate&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mickael-lokhate&layout=compact&theme=dark)
