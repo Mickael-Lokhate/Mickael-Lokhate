@@ -1,8 +1,8 @@
-# Developer
+# Full-Stack Developer
 - 👋 Hi, I’m @Mickael-Lokhate
 - 🧑🏽‍💻 I'm student at 42 school (https://www.42nice.fr) in Nice, France
 - 👀 I’m interested in coding, new technologies, computer science
-- 🌱 I’m currently learning C, C++, Flutter with Dart
+- 🌱 I’m currently learning React, Next, Node, Express, Rust
 - 📫 You can contact me here : lokhatemickael@gmail.com
 - 👉 My LinkedIn : https://www.linkedin.com/in/mickael-lokhate/
 
